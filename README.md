@@ -17,7 +17,7 @@ This tool resolves abnormal `.cagefs` disk usage issues that can consume 10GB to
 ```bash
 curl -O https://raw.githubusercontent.com/wpsend/cagefs_reset/main/cagefs_reset.sh
 chmod +x cagefs_reset.sh username
-
+```
 ---
 
 ## Table of Contents
